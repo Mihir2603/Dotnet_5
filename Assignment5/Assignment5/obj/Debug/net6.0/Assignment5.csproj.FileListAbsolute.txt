@@ -1,0 +1,5 @@
+C:\Users\mihir patel\source\repos\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.csproj.AssemblyReference.cache
+C:\Users\mihir patel\source\repos\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir patel\source\repos\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+C:\Users\mihir patel\source\repos\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+C:\Users\mihir patel\source\repos\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
